@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cristiamvasquez@gmail.com
+	name = Cristiam Vasquez
